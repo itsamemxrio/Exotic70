@@ -1,1 +1,1 @@
-# Exotic70
+exotica70_travel_planner
